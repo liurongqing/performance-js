@@ -1,0 +1,9 @@
+{
+  "name": "performance-js",
+  "version": "1.0.2",
+  "keywords": ["performance", "performance-javascript", "performance-js"],
+  "description": "performance, performance-javascript, performance-js",
+  "main": "index.js",
+  "author": "liurongqing",
+  "license": "MIT"
+}
