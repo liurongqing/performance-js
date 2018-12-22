@@ -22,6 +22,7 @@ import p from 'performance-js'
         console.log('f1...')
     }
     ```
+    ![效果图](https://user-images.githubusercontent.com/26001948/50371161-2d313400-05f0-11e9-8443-dfff8240d017.jpg)
 
 2. 多个函数例子
 
@@ -35,3 +36,4 @@ import p from 'performance-js'
         console.log('f2...')
     }
     ```
+    ![效果图](https://user-images.githubusercontent.com/26001948/50371147-eba08900-05ef-11e9-9b62-fd5a3b52b1fa.jpg)
