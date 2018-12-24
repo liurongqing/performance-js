@@ -1,4 +1,5 @@
 测试程序执行时间
+
 可测试一个或多个函数的执行次数、平均耗时、总耗时，并排序
 
 使用 Babeljs 编译，或者拷贝函数，自己用
@@ -87,7 +88,7 @@ function p(fns = [], num = 1) {
 
   allMeasures.forEach((v, k) => {
     console.log(
-      '%cTop：%d，函数： %s，执行次数：%d，平均耗时：%f ms，总耗时：%f ms',
+      '%cTop：%d，函数：%s，执行次数：%d，平均耗时：%f ms，总耗时：%f ms',
       'color: green;',
       k + 1,
       v.name,
